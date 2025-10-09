@@ -1,0 +1,23 @@
+[2025-10-07 22:11:04]  LukFury: broooo did u roll that d20 😭  
+[2025-10-07 22:11:06]  System: user “lukfury” connected from 192.168.1.47
+22:11:09 | randomGuy_12 : wait is this thing even working??
+[10/07/2025 22:11:11]    THE_REAL_DEAL joined the chat
+[2025/10/07 22:11:15]   *ERROR*: Failed to fetch message history (code 504)
+[2025-10-07 22:11:18] <Raven>: I just rolled a nat 1 💀💀💀  
+[22:11:21]LukFury : nah no way bro  
+2025-10-07 22:11:25 :: SERVER: Reconnected successfully
+[2025-10-07 22:11:27] -xXx-shadow-xXx- : anyone got snacks? 🍕  
+[2025-10-07 22:11:32] SYSTEM: Warning: high latency detected (800ms)
+[10-07-2025 22:11:36]   Raven: WAIT IS IT STILL LOGGING????
+22:11:38 -- lukfury: bruh my console froze again 💀
+[2025.10.07-22:11:41] (mod) Mira: stop spamming rolls pls
+[22:11:43]    <randomGuy_12>: sorry 😔
+[22:11:45] SYSTEM ALERT : Unauthorized command detected: “/summon_tarrasque”
+22:11:48 LAGSpike12: wtf who summoned that thing??
+[2025-10-07 22:11:52]  Mira (mod): im banning whoever did that.
+2025-10-07T22:11:54 - Shadow disconnected.
+[22:11:57] SYSTEM: User “Shadow” removed (timeout)
+[2025-10-07 22:12:01] randomGuy_12 : ok but fr that was cool 😎  
+[2025-10-07 22:12:04]  LAGSpike12 :  bro i just lagged into another dimension  
+[22:12:09] <System> Saving chat logs to /var/logs/chat_2025-10-07.txt
+2025-10-07 22:12:11 :: END OF LOG FILE
