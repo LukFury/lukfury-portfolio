@@ -1,0 +1,370 @@
+## Fake contact dump (for testing) ##
+
+Vera: reach me at diego879@fakemail.net
+Phone: +1 624 402-316
+System log: WARN Disk usage above 92%
+Best, Vera
+
+----------------------------------------
+
+SodaSpritz: reach me at diego151@inbox.test
+backup mail -> sam851@mailinator.com
+Phone: +1 734 791-927
+Note: Do not disturb.
+Best, SodaSpritz
+
+----------------------------------------
+
+Scabatha: reach me at scabatha73@mailinator.com
+backup mail -> hana296@mailinator.com
+Phone: +44 664 770-847
+old number 568-620-5799 (texts preferred)
+Note: texts preferred
+Discord: Scabatha#5812
+Address: 270 Example Street, Cityville
+Best, Scabatha
+
+----------------------------------------
+
+Nova: reach me at rui248@example.com
+backup mail -> diego391@mailinator.com
+Phone: +351 721 568-151
+Note: do not contact during raids
+Address: 301 Example Street, Cityville
+Best, Nova
+
+----------------------------------------
+
+MothMan: reach me at mothman468@demo.co
+Phone: +1 784 603-845
+Note: texts preferred
+Address: 341 Example Street, Cityville
+Last updated: 2025-10-09
+
+----------------------------------------
+
+LukFury: reach me at lukfury334@inbox.test
+backup mail -> rui935@demo.co
+Phone: +351 944 816-474
+System log: CRITICAL: DB_CONN_FAIL
+Address: 625 Example Street, Cityville
+Best, LukFury
+
+----------------------------------------
+
+RalphCrowswell: reach me at ralphcrowswell832@inbox.test
+backup mail -> sam287@demo.co
+Phone: +351 722 360-333
+Note: only contact after 9:00
+Discord: RalphCrowswell#6974
+Best, RalphCrowswell
+
+----------------------------------------
+
+Akiyo: reach me at sam596@demo.co
+backup mail -> diego66@fakemail.net
+Phone: +44 990 857-550
+old number 354-991-5514 (backup number - for emergencies only)
+System log: ALERT 401 unauthorized access attempt
+Discord: Akiyo#4948
+Best, Akiyo
+
+----------------------------------------
+
+Echo: reach me at echo76@fakemail.net
+backup mail -> diego994@mailinator.com
+Phone: +351 724 553-789
+old number 449-649-6651 (voicemail is broken)
+System log: INFO Scheduled job completed
+Address: 595 Example Street, Cityville
+Best, Echo
+
+----------------------------------------
+
+Nova: reach me at rui967@notreal.org
+backup mail -> diego14@mailinator.com
+Phone: +44 710 342-955
+old number 201-377-6766 (backup number - for emergencies only)
+System log: CRITICAL: DB_CONN_FAIL
+Best, Nova
+
+----------------------------------------
+
+Echo: reach me at echo116@demo.co
+backup mail -> lea501@inbox.test
+Phone: +1 988 511-828
+old number 375-441-3562 (voicemail is broken)
+Note: responds slow on weekends
+Best, Echo
+
+----------------------------------------
+
+Nova: reach me at hana618@demo.co
+Phone: +351 884 106-373
+Note: voicemail is broken
+Discord: Nova#3348
+Best, Nova
+
+----------------------------------------
+
+SodaSpritz: reach me at sodaspritz493@demo.co
+backup mail -> diego893@mailinator.com
+Phone: +1 608 486-230
+Note: don’t call lol
+Discord: SodaSpritz#8110
+Best, SodaSpritz
+
+----------------------------------------
+
+Nova: reach me at nova889@inbox.test
+backup mail -> noah956@inbox.test
+Phone: +1 988 914-535
+old number 703-562-7834 (only contact after 9:00)
+Note: Ask for the codeword: 'butterfly'
+Telegram: @nova53
+Last updated: 2025-10-09
+
+----------------------------------------
+
+Nova: reach me at nova313@fakemail.net
+Phone: +44 992 679-525
+old number 984-480-8421 (do not contact during raids)
+System log: ERROR 504 gateway timeout
+Telegram: @nova11
+Last updated: 2025-10-09
+
+----------------------------------------
+
+Pixel: reach me at sam130@fakemail.net
+backup mail -> marta559@example.com
+Phone: +1 734 902-775
+old number 503-468-7761 (backup number - for emergencies only)
+System log: INFO Scheduled job completed
+Discord: Pixel#2867
+Best, Pixel
+
+----------------------------------------
+
+Pixel: reach me at pixel464@notreal.org
+Phone: +44 745 421-577
+System log: WARN Disk usage above 92%
+Telegram: @pixel21
+Best, Pixel
+
+----------------------------------------
+
+Vera: reach me at hana74@fakemail.net
+backup mail -> diego603@fakemail.net
+Phone: +1 641 165-418
+old number 295-738-8755 (only contact after 9:00)
+Note: Ask for the codeword: 'butterfly'
+Discord: Vera#6453
+Address: 754 Example Street, Cityville
+Best, Vera
+
+----------------------------------------
+
+Scabatha: reach me at scabatha824@mailinator.com
+Phone: +1 883 566-801
+old number 374-778-1439 (Do not disturb.)
+System log: ERROR 504 gateway timeout
+Discord: Scabatha#3574
+Last updated: 2025-10-09
+
+----------------------------------------
+
+RalphCrowswell: reach me at ralphcrowswell714@notreal.org
+Phone: +44 947 785-555
+System log: CRITICAL: DB_CONN_FAIL
+Last updated: 2025-10-09
+
+----------------------------------------
+
+Vera: reach me at sam10@fakemail.net
+backup mail -> noah665@demo.co
+Phone: +351 899 202-461
+Note: voicemail is broken
+Telegram: @vera15
+Address: 924 Example Street, Cityville
+Best, Vera
+
+----------------------------------------
+
+SodaSpritz: reach me at sodaspritz962@fakemail.net
+Phone: +44 912 673-336
+old number 210-705-5200 (backup number - for emergencies only)
+Note: don’t call lol
+Discord: SodaSpritz#8017
+Best, SodaSpritz
+
+----------------------------------------
+
+Akiyo: reach me at akiyo259@demo.co
+backup mail -> rui642@mailinator.com
+Phone: +44 883 122-777
+System log: ERROR 504 gateway timeout
+Discord: Akiyo#8577
+Best, Akiyo
+
+----------------------------------------
+
+Scabatha: reach me at scabatha147@notreal.org
+backup mail -> tom643@notreal.org
+Phone: +351 728 920-764
+old number 717-260-2477 (don’t call lol)
+System log: INFO Scheduled job completed
+Discord: Scabatha#5974
+Best, Scabatha
+
+----------------------------------------
+
+RalphCrowswell: reach me at ralphcrowswell98@notreal.org
+backup mail -> noah396@inbox.test
+Phone: +351 655 599-140
+old number 695-633-3894 (texts preferred)
+Note: backup number - for emergencies only
+Last updated: 2025-10-09
+
+----------------------------------------
+
+MothMan: reach me at mothman291@notreal.org
+Phone: +351 893 420-733
+old number 251-824-2195 (responds slow on weekends)
+System log: ERROR 503 service unavailable
+Discord: MothMan#5461
+Best, MothMan
+
+----------------------------------------
+
+Nova: reach me at nova732@inbox.test
+Phone: +44 941 491-216
+old number 646-406-4604 (responds slow on weekends)
+Note: Do not disturb.
+Discord: Nova#8699
+Telegram: @nova99
+Best, Nova
+
+----------------------------------------
+
+Pixel: reach me at noah498@fakemail.net
+Phone: +44 831 982-168
+old number 386-282-3445 (responds slow on weekends)
+Note: Do not disturb.
+Discord: Pixel#6851
+Telegram: @pixel59
+Last updated: 2025-10-09
+
+----------------------------------------
+
+LukFury: reach me at lukfury9@mailinator.com
+Phone: +44 656 985-241
+old number 645-401-2936 (Do not disturb.)
+Note: responds slow on weekends
+Best, LukFury
+
+----------------------------------------
+
+LukFury: reach me at diego876@mailinator.com
+Phone: +351 807 638-388
+old number 960-399-9744 (do not contact during raids)
+System log: ERROR 503 service unavailable
+Last updated: 2025-10-09
+
+----------------------------------------
+
+Echo: reach me at echo768@demo.co
+Phone: +351 622 361-537
+System log: ERROR 503 service unavailable
+Discord: Echo#6409
+Best, Echo
+
+----------------------------------------
+
+Nova: reach me at yuki584@mailinator.com
+Phone: +1 715 645-353
+System log: ERROR 504 gateway timeout
+Discord: Nova#2383
+Telegram: @nova27
+Best, Nova
+
+----------------------------------------
+
+Akiyo: reach me at akiyo58@fakemail.net
+backup mail -> sam214@example.com
+Phone: +44 654 852-723
+old number 347-891-1141 (texts preferred)
+System log: INFO Scheduled job completed
+Last updated: 2025-10-09
+
+----------------------------------------
+
+MothMan: reach me at mothman482@fakemail.net
+backup mail -> sam264@fakemail.net
+Phone: +44 690 132-298
+old number 809-777-1277 (texts preferred)
+System log: INFO Scheduled job completed
+Telegram: @mothman97
+Address: 566 Example Street, Cityville
+Last updated: 2025-10-09
+
+----------------------------------------
+
+RalphCrowswell: reach me at ralphcrowswell881@mailinator.com
+backup mail -> lukas881@demo.co
+Phone: +351 816 919-978
+old number 875-815-4303 (Do not disturb.)
+System log: ALERT 401 unauthorized access attempt
+Discord: RalphCrowswell#8888
+Telegram: @ralphcrowswell13
+Best, RalphCrowswell
+
+----------------------------------------
+
+Pixel: reach me at pixel446@demo.co
+backup mail -> sam264@fakemail.net
+Phone: +44 679 819-404
+System log: ERROR 504 gateway timeout
+Telegram: @pixel99
+Best, Pixel
+
+----------------------------------------
+
+MothMan: reach me at mothman917@example.com
+backup mail -> hana596@notreal.org
+Phone: +351 610 935-732
+System log: ALERT 401 unauthorized access attempt
+Discord: MothMan#9763
+Best, MothMan
+
+----------------------------------------
+
+SodaSpritz: reach me at tom606@notreal.org
+backup mail -> diego484@inbox.test
+Phone: +44 975 282-853
+Note: don’t call lol
+Best, SodaSpritz
+
+----------------------------------------
+
+Pixel: reach me at marta738@fakemail.net
+backup mail -> lea479@fakemail.net
+Phone: +351 756 723-994
+old number 904-303-4774 (only contact after 9:00)
+System log: INFO Scheduled job completed
+Discord: Pixel#8713
+Telegram: @pixel60
+Last updated: 2025-10-09
+
+----------------------------------------
+
+Nova: reach me at nova632@demo.co
+backup mail -> lea881@mailinator.com
+Phone: +1 898 171-881
+old number 275-229-3697 (do not contact during raids)
+System log: INFO Scheduled job completed
+Discord: Nova#6594
+Telegram: @nova68
+Best, Nova
+
+----------------------------------------
+
