@@ -10,7 +10,7 @@ def clean_data(df: pd.DataFrame, config_path: str | Path | None = None) -> pd.Da
     Logs every step to a timestamped log file in the configured log directory.
     """
     start = perf_counter()
-    
+
     # 🔍 Auto-locate config if not provided
     if config_path is None:
         project_root = Path(__file__).resolve().parent.parent
@@ -73,23 +73,41 @@ def clean_data(df: pd.DataFrame, config_path: str | Path | None = None) -> pd.Da
             pass
     log(f"Columns converted to numeric: {numeric_converted}")
 
-    # 5️⃣ Drop rows missing key identifiers
+    # 5️⃣ Handle missing key IDs & preserve team rows
     before = len(df)
     missing_keys = df[df[key_columns].isna().any(axis=1)]
     if not missing_keys.empty:
         log(f"Dropped rows missing key IDs: {len(missing_keys)}")
-    df = df.dropna(subset=key_columns, how="any")
-    log(f"Rows removed (missing keys): {before - len(df)}")
 
-    # 6️⃣ Final summary + CSV export
-    df.to_csv(output_path, index=cfg["settings"]["index"])
+    if "participantid" in df.columns:
+        players = df[df["position"].notna() & ~df["participantid"].isin([100, 200])]
+        teams = df[df["participantid"].isin([100, 200])]
+
+        # Merge and order by match/gameid and participantid
+        df = (
+            pd.concat([players, teams])
+            .drop_duplicates()
+            .sort_values(["gameid", "participantid"])
+            .reset_index(drop=True)
+        )
+
+        log(f"✅ Preserved and sorted team summary rows per match: {len(teams)}")
+    else:
+        log("⚠️ No 'participantid' column found — skipping team preservation logic.")
+
+
+    log(f"Rows removed (missing keys, excluding teams): {before - len(df)}")
+
+    # 6️⃣ Save + summary
     removed_total = start_rows - len(df)
+    df.to_csv(output_path, index=cfg["settings"]["index"])
+
     log(f"✅ Cleaned dataframe: {df.shape[0]} rows, {df.shape[1]} columns")
     log(f"📉 Total rows removed: {removed_total} ({removed_total/start_rows:.2%} data loss)")
     log(f"✅ Saved cleaned data → {output_path}")
+    log(f"⏱ Cleaning completed in {perf_counter() - start:.2f} seconds")
 
     if verbose:
         print(f"✅ Cleaned data saved to: {output_path}")
 
-    log(f"⏱ Cleaning completed in {perf_counter() - start:.2f} seconds")
     return df
