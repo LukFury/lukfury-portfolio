@@ -1,2 +1,28 @@
-# lukfury-portfolio
+# LukFury Portfolio
 
+Welcome to my coding portfolio.  
+Here you’ll find my Python projects, experiments, and tools I’m proud of (especially in data cleaning, log parsing, and algorithmic projects).
+
+## 📌 Featured Project
+- [MediumPythonProjects/Text_Log_Cleaner](MediumPythonProjects/Text_Log_Cleaner)
+  - Cleans chat logs, formats output, and removes system noise
+
+## 📂 Projects
+
+| Name | Description |
+|------|-------------|
+| Text Log Cleaner | Cleans chat logs: strips timestamps, filters system lines, formats speaker/message output |
+| ... | ... other project |  
+
+## 🚀 How to run a project
+
+1. Clone this repo  
+2. `cd` into the project folder  
+3. Follow its README for setup + execution  
+
+## 🧠 About me
+
+I specialize in data handling, transformation pipelines, and writing clean, robust Python tools.  
+If you want to see working code, suggestions, or collaborate — check the individual project READMEs.
+
+---
