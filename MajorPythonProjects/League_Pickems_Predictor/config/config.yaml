@@ -1,0 +1,14 @@
+# Data cleaning configuration
+paths:
+  log_dir: "Logs"
+  cleaned_output: "Data/Cleaned/cleaned_data_sample.csv"
+
+columns:
+  key_columns: ["gameid", "playername", "teamname"]
+  date_column: "date"
+
+settings:
+  verbose: true
+  date_parse_errors: "coerce"
+  save_format: "csv"
+  index: false
