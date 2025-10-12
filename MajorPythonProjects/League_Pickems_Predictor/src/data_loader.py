@@ -1,7 +1,10 @@
 import pandas as pd
 from pathlib import Path
+from time import perf_counter
 
 def load_pro_league_data(raw_folder: str | Path, multi_file: bool = False) -> pd.DataFrame:
+    start = perf_counter()
+    
     raw_folder = Path(raw_folder)
 
     if multi_file:
@@ -17,6 +20,7 @@ def load_pro_league_data(raw_folder: str | Path, multi_file: bool = False) -> pd
             ignore_index=True
         )
         print(f"Combined dataframe shape: {df.shape}")
+        print(f"Data loaded in {perf_counter() - start:.2f} seconds")
         return df
 
     else:
@@ -24,4 +28,7 @@ def load_pro_league_data(raw_folder: str | Path, multi_file: bool = False) -> pd
         if not file_path.exists():
             raise FileNotFoundError(f"File not found: {file_path}")
         print(f"Loading single file: {file_path.name}")
+        print(f"Data loaded in {perf_counter() - start:.2f} seconds")
         return pd.read_csv(file_path, low_memory=False)
+    
+    

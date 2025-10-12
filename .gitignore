@@ -181,3 +181,4 @@ cython_debug/
 .cursorindexingignore
 /MajorPythonProjects/League_Pickems_Predictor/Logs
 /MajorPythonProjects/League_Pickems_Predictor/Data
+MajorPythonProjects/League_Pickems_Predictor/tests/single_file_runner.py
