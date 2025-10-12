@@ -4,6 +4,8 @@ Welcome to my coding portfolio.
 Here you’ll find my Python projects, experiments, and tools I’m proud of (especially in data cleaning, log parsing, and algorithmic projects).
 
 ## 📌 Featured Project
+- [MajorPythonProjects/League_Pickems_Predictor](MajorPythonProjects/League_Pickems_Predictor)
+  - Predicts outcome of professional matches and stats based on public data
 - [MediumPythonProjects/Text_Log_Cleaner](MediumPythonProjects/Text_Log_Cleaner)
   - Cleans chat logs, formats output, and removes system noise
 
