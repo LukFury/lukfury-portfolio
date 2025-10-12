@@ -14,6 +14,7 @@ Here you’ll find my Python projects, experiments, and tools I’m proud of (es
 | Name | Description |
 |------|-------------|
 | Text Log Cleaner | Cleans chat logs: strips timestamps, filters system lines, formats speaker/message output |
+|League Pickems Predictor | Predicts outcome of professional matches and stats based on public data |
 | ... | ... other project |  
 
 ## 🚀 How to run a project
