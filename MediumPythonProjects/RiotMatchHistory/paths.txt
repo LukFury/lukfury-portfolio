@@ -1,0 +1,22 @@
+RiotMatchHistory/
+│
+├── .env                         # Your Riot API key (never commit this)
+├── README.md                    # Explain usage + setup
+│
+├── data/                        # Raw + processed data
+│   ├── raw_matches/             # JSON dumps from API
+│   └── processed/               # Cleaned CSVs or summaries
+│
+├── src/                         # All source code lives here
+│   ├── __init__.py
+│   ├── api_client.py            # Handles Riot API calls (auth, endpoints)
+│   ├── match_fetcher.py         # Pulls match IDs + details
+│   ├── data_cleaner.py          # filters / summarizes stats
+│   └── main.py                  # Entry point / CLI
+│
+├── utils/                       # Helper scripts (logging, caching, etc.)
+│   ├── __init__.py
+│   └── logger.py
+│
+└── tests/                       # Later for simple unit tests (optional)
+    └── test_api_client.py
