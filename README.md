@@ -4,7 +4,7 @@ Welcome to my coding portfolio.
 Here you’ll find my Python projects, experiments, and tools I’m proud of (especially in data cleaning, log parsing, and algorithmic projects).
 
 ## 📌 Featured Project
-- [MajorPythonProjects/League_Pickems_Predictor](MajorPythonProjects/League_Pickems_Predictor)
+- [MediumPythonProjects/RiotMatchHistory](MediumPythonProjects/RiotMatchHistory)
   - Predicts outcome of professional matches and stats based on public data
 - [MediumPythonProjects/Text_Log_Cleaner](MediumPythonProjects/Text_Log_Cleaner)
   - Cleans chat logs, formats output, and removes system noise
@@ -14,7 +14,7 @@ Here you’ll find my Python projects, experiments, and tools I’m proud of (es
 | Name | Description |
 |------|-------------|
 | Text Log Cleaner | Cleans chat logs: strips timestamps, filters system lines, formats speaker/message output |
-|League Pickems Predictor | Predicts outcome of professional matches and stats based on public data |
+|Riot Match History | Fetches data from Riot Games api and looks at player match history data|
 | ... | ... other project |  
 
 ## 🚀 How to run a project
