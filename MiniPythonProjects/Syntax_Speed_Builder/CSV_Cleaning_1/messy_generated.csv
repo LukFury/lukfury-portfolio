@@ -1,0 +1,21 @@
+name, age , city , income
+Eve,35.0,Lisbon,not_available
+Eve,30.0,Porto,not_available
+Eve,35.0,Faro,not_available
+Alice,25.0,Coimbra,not_available
+Bob,30.0,,not_available
+Eve,,Lisbon,35000
+Bob,35.0,Porto,35000
+Alice,25.0,Faro,
+Bob,30.0,Coimbra,
+Bob,30.0,,35000
+Carlos,30.0,Lisbon,42000
+Bob,30.0,Porto,
+Eve,25.0,Faro,35000
+Eve,25.0,Coimbra,42000
+Bob,30.0,,
+Eve,25.0,Lisbon,42000
+Bob,25.0,Porto,not_available
+Dani,30.0,Faro,not_available
+Alice,30.0,Coimbra,
+Alice,35.0,,
