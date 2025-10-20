@@ -1,31 +1,38 @@
-# LukFury Portfolio
+# ⚡ LukFury – Data Engineering & Python Portfolio
 
-Welcome to my coding portfolio.  
-Here you’ll find my Python projects, experiments, and tools I’m proud of (especially in data cleaning, log parsing, and algorithmic projects).
+Welcome to my personal portfolio.  
+I build Python tools that **transform messy data into clean, usable insights** — from API-driven pipelines to text and log cleaners.
 
-## 📌 Featured Project
-- [MediumPythonProjects/RiotMatchHistory](MediumPythonProjects/RiotMatchHistory)
-  - Predicts outcome of professional matches and stats based on public data
-- [MediumPythonProjects/Text_Log_Cleaner](MediumPythonProjects/Text_Log_Cleaner)
-  - Cleans chat logs, formats output, and removes system noise
+---
 
-## 📂 Projects
+## 🎯 Featured Projects
 
-| Name | Description |
-|------|-------------|
-| Text Log Cleaner | Cleans chat logs: strips timestamps, filters system lines, formats speaker/message output |
-|Riot Match History | Fetches data from Riot Games api and looks at player match history data|
-| ... | ... other project |  
+### 🧩 [Riot Match History ETL](MediumPythonProjects/RiotMatchHistory)
+A full data pipeline that fetches and cleans **Riot Games match history**.  
+- Modular ETL design (`api_client`, `match_fetcher`, `data_cleaner`)  
+- Logging, rate-limit handling, and clean separation of raw/processed data  
+- Real API work, not static CSVs  
 
-## 🚀 How to run a project
+> 🧠 *Stack:* Python, Requests, Pandas, Logging, .env, JSON  
 
-1. Clone this repo  
-2. `cd` into the project folder  
-3. Follow its README for setup + execution  
+---
 
-## 🧠 About me
+### 🧹 [Text Log Cleaner](MediumPythonProjects/Text_Log_Cleaner)
+Dual-mode log cleaning toolkit built in both **regex-based** and **pandas-based** versions.  
+- Strips timestamps, removes noise, normalizes chat logs  
+- Exports clean structured CSVs ready for analysis  
+- CLI-friendly, easily extended for production log processing  
 
-I specialize in data handling, transformation pipelines, and writing clean, robust Python tools.  
-If you want to see working code, suggestions, or collaborate — check the individual project READMEs.
+> 🧠 *Stack:* Python, Regex, Pandas, File I/O  
+
+---
+
+## 🧠 About Me
+I’m **Lukasz**, a data engineer in training — obsessed with structure, automation, and building tools that make chaos make sense.  
+- Skilled in **Python, Pandas, Regex, API pipelines, and Data Cleaning**  
+- Experienced with modular design, logging systems, and clean code practices  
+- Passionate about scaling small scripts into real, maintainable systems  
+
+If you want to explore my work or collaborate, dive into the individual project READMEs — they show the code and reasoning behind every decision.
 
 ---
